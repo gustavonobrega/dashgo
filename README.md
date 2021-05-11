@@ -46,7 +46,7 @@ $ cd dashgo
 $ yarn
 
 # Run the app
-$ yarn start
+$ yarn dev
 ```
 
 ---
